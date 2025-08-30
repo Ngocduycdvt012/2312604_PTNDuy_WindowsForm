@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9053A6-A4D8-4DE6-AB41-458EF3B5A432}|B\u00E0i th\u1EF1c h\u00E0nh 2.csproj|c:\\users\\admin\\desktop\\2312603_ptnduy_windowsform\\b\u00E0i th\u1EF1c h\u00E0nh 2.1\\frmbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F9053A6-A4D8-4DE6-AB41-458EF3B5A432}|B\u00E0i th\u1EF1c h\u00E0nh 2.csproj|solutionrelative:frmbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9053A6-A4D8-4DE6-AB41-458EF3B5A432}|B\u00E0i th\u1EF1c h\u00E0nh 2.csproj|c:\\users\\admin\\desktop\\2312603_ptnduy_windowsform\\b\u00E0i th\u1EF1c h\u00E0nh 2.1\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F9053A6-A4D8-4DE6-AB41-458EF3B5A432}|B\u00E0i th\u1EF1c h\u00E0nh 2.csproj|solutionrelative:frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9053A6-A4D8-4DE6-AB41-458EF3B5A432}|B\u00E0i th\u1EF1c h\u00E0nh 2.csproj|c:\\users\\admin\\desktop\\2312603_ptnduy_windowsform\\b\u00E0i th\u1EF1c h\u00E0nh 2.1\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F9053A6-A4D8-4DE6-AB41-458EF3B5A432}|B\u00E0i th\u1EF1c h\u00E0nh 2.csproj|solutionrelative:frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9053A6-A4D8-4DE6-AB41-458EF3B5A432}|B\u00E0i th\u1EF1c h\u00E0nh 2.csproj|c:\\users\\admin\\desktop\\2312603_ptnduy_windowsform\\b\u00E0i th\u1EF1c h\u00E0nh 2.1\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F9053A6-A4D8-4DE6-AB41-458EF3B5A432}|B\u00E0i th\u1EF1c h\u00E0nh 2.csproj|solutionrelative:formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBai3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\FrmBai3.cs",
+              "RelativeDocumentMoniker": "FrmBai3.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\FrmBai3.cs [Design]",
+              "RelativeToolTip": "FrmBai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:03:48.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmBai2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\FrmBai2.cs",
+              "RelativeDocumentMoniker": "FrmBai2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\FrmBai2.cs [Design]",
+              "RelativeToolTip": "FrmBai2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:03:46.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBai1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\FrmBai1.cs",
+              "RelativeDocumentMoniker": "FrmBai1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\FrmBai1.cs [Design]",
+              "RelativeToolTip": "FrmBai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:03:44.848Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formchinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\Formchinh.cs",
+              "RelativeDocumentMoniker": "Formchinh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312603_PTNDuy_WindowsForm\\B\u00E0i th\u1EF1c h\u00E0nh 2.1\\Formchinh.cs [Design]",
+              "RelativeToolTip": "Formchinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T15:03:26.618Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\bin\Debug\Bài Thục Hành 2.exe.config
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\bin\Debug\Bài Thục Hành 2.exe
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\bin\Debug\Bài Thục Hành 2.pdb
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\obj\Debug\Bài Thục Hành 2.csproj.AssemblyReference.cache
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\obj\Debug\Bài_Thục_Hành_2.MainForm.resources
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\obj\Debug\Bài_Thục_Hành_2.Properties.Resources.resources
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\obj\Debug\Bài Thục Hành 2.csproj.GenerateResource.cache
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\obj\Debug\Bài Thục Hành 2.csproj.CoreCompileInputs.cache
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\obj\Debug\Bài Thục Hành 2.exe
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\obj\Debug\Bài Thục Hành 2.pdb
+C:\Users\Pham Duy\source\repos\Bài Thục Hành 2\obj\Debug\Bài Thục Hành 2.exe.config

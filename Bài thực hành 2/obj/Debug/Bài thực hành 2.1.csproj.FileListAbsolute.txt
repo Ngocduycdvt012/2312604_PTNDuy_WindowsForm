@@ -1,0 +1,14 @@
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\bin\Debug\Bài thực hành 2.1.exe.config
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\bin\Debug\Bài thực hành 2.1.exe
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\bin\Debug\Bài thực hành 2.1.pdb
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài thực hành 2.1.csproj.AssemblyReference.cache
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài_thực_hành_2._1.Formchinh.resources
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài_thực_hành_2._1.FrmBai1.resources
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài_thực_hành_2._1.Properties.Resources.resources
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài thực hành 2.1.csproj.GenerateResource.cache
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài thực hành 2.1.csproj.CoreCompileInputs.cache
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài thực hành 2.1.exe
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài thực hành 2.1.pdb
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài thực hành 2.1.exe.config
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài_thực_hành_2._1.FrmBai2.resources
+C:\Users\Pham Duy\source\repos\Bài thực hành 2.1\obj\Debug\Bài_thực_hành_2._1.FrmBai3.resources

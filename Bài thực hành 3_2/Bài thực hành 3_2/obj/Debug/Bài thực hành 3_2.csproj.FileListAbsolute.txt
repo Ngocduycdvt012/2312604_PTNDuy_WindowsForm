@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\bin\Debug\Bài thực hành 3_2.exe.config
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\bin\Debug\Bài thực hành 3_2.exe
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\bin\Debug\Bài thực hành 3_2.pdb
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài thực hành 3_2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài_thực_hành_3_2.FrmBai1.resources
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài_thực_hành_3_2.frmBai2.resources
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài_thực_hành_3_2.FrmBai3.resources
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài_thực_hành_3_2.Formchinh.resources
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài_thực_hành_3_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài thực hành 3_2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài thực hành 3_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài thực hành 3_2.exe
+C:\Users\Admin\Desktop\Bài thực hành 3_2\Bài thực hành 3_2\obj\Debug\Bài thực hành 3_2.pdb

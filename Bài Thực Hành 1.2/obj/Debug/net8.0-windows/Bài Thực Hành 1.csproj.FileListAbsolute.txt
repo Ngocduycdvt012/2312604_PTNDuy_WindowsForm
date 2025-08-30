@@ -1,0 +1,16 @@
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\bin\Debug\net8.0-windows\Bài Thực Hành 1.exe
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\bin\Debug\net8.0-windows\Bài Thực Hành 1.deps.json
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\bin\Debug\net8.0-windows\Bài Thực Hành 1.runtimeconfig.json
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\bin\Debug\net8.0-windows\Bài Thực Hành 1.dll
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\bin\Debug\net8.0-windows\Bài Thực Hành 1.pdb
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài_Thực_Hành_1.Form1.resources
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài Thực Hành 1.csproj.GenerateResource.cache
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài Thực Hành 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài Thực Hành 1.AssemblyInfoInputs.cache
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài Thực Hành 1.AssemblyInfo.cs
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài Thực Hành 1.csproj.CoreCompileInputs.cache
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài Thực Hành 1.dll
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\refint\Bài Thực Hành 1.dll
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài Thực Hành 1.pdb
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\Bài Thực Hành 1.genruntimeconfig.cache
+C:\Users\Pham Duy\source\repos\Bài Thực Hành 1\obj\Debug\net8.0-windows\ref\Bài Thực Hành 1.dll
